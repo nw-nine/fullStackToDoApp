@@ -1,0 +1,49 @@
+div {
+  color: #2596be;
+}
+  
+  .container {
+    border: 5px solid #145369;
+    display: grid;
+    place-items: center;
+    height: 98vh;
+  }
+  
+  .bigBox{
+    border: 2px solid #145369;
+    
+  }
+  
+  .box {
+    border: 2px solid #145369;
+    border-radius: 10px;
+    margin: 2px;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+  }
+  
+  .main{
+    margin: 10px;
+    
+  }
+  
+  .title{
+    font-size: 7rem;
+  }
+
+  .extraMargin {
+    margin-top: 10px;
+  }
+
+  .blueWithWhite {
+    background-color: #145399;
+  }
+
+  .center {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 10px;
+   
+  }
